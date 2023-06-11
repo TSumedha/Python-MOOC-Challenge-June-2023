@@ -5,11 +5,11 @@
 #### To view the project :  Go to [nbviewer](https://nbviewer.org/) and paste in this url:
 github.com/TSumedha/Python-MOOC-Challenge-June-2023/blob/d8cf13caa8f566a60fbe097f1d2c94846f81f9f0/Sales%20Analysis.ipynb
 
-#### This a a project completed for the Intro To Python For Data MOOC Challenge run by Code First Girls in June 2023.
+#### Project: Intro To Python For Data MOOC Challenge - Code First Girls June 2023.
 
 ## The brief :   
 
-#### To write a Python program that reads in a csv file containing sales data, carry out analysis of the data, and write the results of the analysis to a csv file.
+#### Python program that reads in a csv file containing sales data, carry out analysis of the data, and write the results of the analysis to a csv file.
 
 ## Links :     
 
