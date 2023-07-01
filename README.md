@@ -3,7 +3,7 @@
 
 
 #### To view the project :  Go to [nbviewer](https://nbviewer.org/) and paste in this url:
-github.com/TSumedha/Python-MOOC-Challenge-June-2023/blob/main/Sales%20Analysis.ipynb
+github.com/TSumedha/Python-MOOC-Challenge-June-2023/blob/main/SalesAnalysis.ipynb
 
 #### Project: Intro To Python For Data MOOC Challenge - Code First Girls June 2023.
 
@@ -14,6 +14,6 @@ github.com/TSumedha/Python-MOOC-Challenge-June-2023/blob/main/Sales%20Analysis.i
 ## Links :     
 
 #### To view the project: Go to [nbviewer](https://nbviewer.org/) and paste in this url: 
-github.com/TSumedha/Python-MOOC-Challenge-June-2023/blob/main/Sales%20Analysis.ipynb
+github.com/TSumedha/Python-MOOC-Challenge-June-2023/blob/main/SalesAnalysis.ipynb
 #### To view the presentation slides [click](https://docs.google.com/presentation/d/1MffuT4WDkk3VX4U_589QATjh5Ybwb1i31LDh2hhEU/edit#slide=id.g251429f9738_0_1064) here
 
